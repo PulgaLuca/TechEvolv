@@ -100,6 +100,8 @@ L'azione riceve una risposta da Watson Assistant. Il testo di risposta viene inv
 
 Alexa risponde all'utente.
 
+Link Video: https://www.youtube.com/watch?v=w5GXUbQ-vfE
+
 Link mockup: https://www.figma.com/file/nhC6AVQU1gCuwi2Jmkx7d0/Hackathon-IBM-intesa-sanpaolo?type=design&node-id=0%3A1&mode=design&t=yI0gYEetUnIIGBn0-1
 
 Link presentazione: https://www.canva.com/design/DAFvRKy-lCA/GLZwCeCyUFeYeyj-fu6v7A/view?utm_content=DAFvRKy-lCA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
